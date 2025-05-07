@@ -1,0 +1,6 @@
+qianfan[openai]
+llama-index
+nest_asyncio
+langchain-community
+dotenv
+llama-index-llms-langchain
